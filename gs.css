@@ -2,9 +2,10 @@
     font-size: 16px;
     font-style: italic;
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .speech{
-   
+    font-family: Arial, Helvetica, sans-serif;
     font-style: bold;
     color: black;
 }
@@ -19,38 +20,29 @@
     background-color: rgb(187, 122, 26);
 }
 .pho{
+    font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: beige;
 }
-.pho:hover{
-    color:brown;
-    background-color: rgb(185, 125, 34);
-}
+
 .wil{
+    font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: aqua;
 }
-.wil:hover{
-    color:brown;
-    background-color: rgb(188, 130, 43);
-}
+
 .cro{
+    font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: whitesmoke;
 }
-.cro:hover{
-    color:brown;
-    background-color: rgb(176, 131, 62);
-}
+
 .yeo{
+    font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: darkgreen;
-}
-.yeo:hover{
-    color:brown;
-    background-color: rgb(190, 135, 53);
 }
