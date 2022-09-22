@@ -46,3 +46,17 @@
     font-family:Arial, Helvetica, sans-serif;
     color: darkgreen;
 }
+table.table
+{
+    color:rgb(207, 17, 17);
+    text-align: center;
+    padding: 55px;
+    margin:25px;
+}
+table, th, td {
+    border: 3px double;
+  }
+tr:nth-child(even)
+{
+    background-color: gold;
+}
