@@ -25,19 +25,36 @@
     font-family:Arial, Helvetica, sans-serif;
     color: beige;
 }
+.pho:hover{
+    color: blueviolet;
+    background-color: rgb(255, 111, 0);
+    text-shadow: 3px 3px 6px black;
+    border-style: dotted;
+}
 
 .wil{
     font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
-    color: aqua;
+    color: rgb(255, 111, 0);
 }
-
+.will:hover{
+    color: blueviolet;
+    background-color: rgb(255, 111, 0);
+    text-shadow: 3px 3px 6px black;
+    border-style: dotted;
+}
 .cro{
     font-style: italic;
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: blue;
+}
+.cro:hover{
+    color: blueviolet;
+    background-color: rgb(255, 111, 0);
+    text-shadow: 3px 3px 6px black;
+    border-style: dotted;
 }
 
 .yeo{
@@ -45,6 +62,24 @@
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
     color: darkgreen;
+}
+.yeo:hover{
+    color: blueviolet;
+    background-color: rgb(255, 111, 0);
+    text-shadow: 3px 3px 6px black;
+    border-style: dotted;
+}
+.dam{
+    font-style: italic;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: darkgreen;
+}
+.dam:hover{
+    color: blueviolet;
+    background-color: rgb(255, 111, 0);
+    text-shadow: 3px 3px 6px black;
+    border-style: dotted;
 }
 table.table
 {
